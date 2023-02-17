@@ -9,16 +9,7 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 
 Além de outros recursos falados nas aulas!
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
-    - Horário de Atendimento
-    - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
 
-Abaixo como cada página deve ser criada e estruturada.
 
 ### Estrutura das páginas
 
@@ -69,6 +60,3 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
